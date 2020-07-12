@@ -11,7 +11,7 @@
     { "id": 9, "title": "Post 9", "url": "http://lorempixel.com/400/200/sports/9", "kreirao":"Marko" }
   ],
   "photos": [
-    { "id": 1, "url1": ["http://lorempixel.com/400/200/sports/1", "Ana", "Maja"], "url2": ["http://lorempixel.com/400/200/sports/2", "Srecko", "Dejan"], "url3": ["http://lorempixel.com/400/200/sports/1", "Marija", "Dario"], "url4": ["http://lorempixel.com/400/200/sports/2", "Srdjan", "Sveta"], "postId": 2 },
+    { "id": 1, "url": "http://lorempixel.com/400/200/sports/1", "url1":["Ana", "Maja"], "url2": ["http://lorempixel.com/400/200/sports/2", "Srecko", "Dejan"], "url3": ["http://lorempixel.com/400/200/sports/1", "Marija", "Dario"], "url4": ["http://lorempixel.com/400/200/sports/2", "Srdjan", "Sveta"], "postId": 2 },
    { "id": 3, "url1": ["http://lorempixel.com/400/200/sports/1", "Ana", "Maja"], "url2": ["http://lorempixel.com/400/200/sports/2", "Srecko", "Dejan"], "url3": ["http://lorempixel.com/400/200/sports/1", "Marija", "Dario"], "url4": ["http://lorempixel.com/400/200/sports/2", "Srdjan", "Sveta"], "postId": 3 },
    { "id": 4, "url1": ["http://lorempixel.com/400/200/sports/1", "Ana", "Maja"], "url2": ["http://lorempixel.com/400/200/sports/2", "Srecko", "Dejan"], "url3": ["http://lorempixel.com/400/200/sports/1", "Marija", "Dario"], "url4": ["http://lorempixel.com/400/200/sports/2", "Srdjan", "Sveta"], "postId": 4 },
    { "id": 5, "url1": ["http://lorempixel.com/400/200/sports/1", "Ana", "Maja"], "url2": ["http://lorempixel.com/400/200/sports/2", "Srecko", "Dejan"], "url3": ["http://lorempixel.com/400/200/sports/1", "Marija", "Dario"], "url4": ["http://lorempixel.com/400/200/sports/2", "Srdjan", "Sveta"], "postId": 5 },
